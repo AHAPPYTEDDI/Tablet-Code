@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f84ecc53e0b01c74a9d24e9f20b93575
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scannerBLE: {instanceID: 0}
+  - blueMaterial: {instanceID: 0}
+  - greenMaterial: {instanceID: 0}
+  - redMaterial: {instanceID: 0}
+  - transparent: {instanceID: 0}
+  - heatMaterial: {fileID: 2100000, guid: 0803b78e4bbcfc046a1b2a27e45bd3e7, type: 2}
+  - ChangeVizButtonParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

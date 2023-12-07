@@ -1,0 +1,173 @@
+{
+    "m_SelectedDeviceId": "RF8M31YKRRZ",
+    "m_SelectedPackage": {
+        "deviceId": "RF8M31YKRRZ",
+        "name": "com.CMICf.Spinaf",
+        "processId": 15863,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.sec.android.app.launcher",
+            "processId": 1937,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 22423,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 23309,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 24696,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 24298,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 27536,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 28229,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 29130,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 29738,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 29948,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 30427,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 8583,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 10898,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 12404,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 13360,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 15030,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 15225,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M31YKRRZ",
+            "name": "com.CMICf.Spinaf",
+            "processId": 15863,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
